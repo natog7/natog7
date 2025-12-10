@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on game development. I've knowledge and experience in digital game development, game design, Unity and AI, having released a game on Steam ([Stellar Shapers](https://store.steampowered.com/app/3429050/Stellar_Shapers/)), developed a game for undergraduated thesis for college (Chrono Breaker) and other one for graduate degree (1356), developed some short games (Project Skyline, Quiz Séries, Freeze Survival). I've always loved games and developing them is my passion.
+I'm currently working on game development. I've knowledge and experience in digital game development, game design, Unity, C# and AI, having released a game on Steam ([Stellar Shapers](https://store.steampowered.com/app/3429050/Stellar_Shapers/)), developed a game for undergraduated thesis for college (Chrono Breaker) and other one for graduate degree (1356), developed some short games (Project Skyline, Quiz Séries, Freeze Survival). I've always loved games and developing them is my passion.
 
 I'm also a software developer with professional experience in full stack web using the languages ​​and technologies C#, T-SQL, JavaScript, HTML, CSS, ASP.NET, Rest API, integrations with APIs, and database optimization. In addition to full stack mobile using C# and Xamarin.
 
