@@ -2,7 +2,7 @@
 
 ### 💫 About Me
 
-Senior Software Developer with over 10 years of experience specializing in the C# and .NET ecosystem. My background bridges the gap between enterprise web architecture and high-performance game development, ranging from building scalable SaaS platforms and complex financial integrations to architecting and publishing a commercial game globally on Steam. Hold a B.S. in Computer Science and an MBA in Digital Game Development.
+Senior Software Developer with over 10 years of experience specializing in the C# and .NET ecosystem. My background bridges the gap between enterprise web architecture and high-performance game development, ranging from building scalable SaaS platforms and complex financial integrations to architecting and publishing a commercial game on Steam. Hold a B.S. in Computer Science and an MBA in Digital Game Development.
 
 ---
 
@@ -17,7 +17,7 @@ Senior Software Developer with over 10 years of experience specializing in the C
 
 * **Enterprise & Web Engineering:** Designing scalable RESTful APIs, Clean Architecture, CQRS, and domain-driven backend systems using C#, .NET Core, SQL Server, and PostgreSQL.
 * **Modern Frontend:** Building reactive web applications using Angular and TypeScript.
-* **Game Development & Systems Programming:** Architecting real-time systems, advanced memory management, Utility AI decision algorithms, and Event-Driven architectures in C#.
+* **Game Development & Systems Programming:** Architecting real-time systems, advanced memory management, Utility AI decision algorithms, ECS / DOTS, Component-Based architecture, Event-Driven architectures in C#, VFX Artist, Game Balance Designer, and Systems Designer.
 * **Distributed Systems & Integration:** Implementing asynchronous messaging (RabbitMQ), caching (Redis), containerization (Docker), and critical financial payment integrations (POS, NF-e, gateways).
 
 ---
